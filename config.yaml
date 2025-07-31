@@ -1,0 +1,22 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Practivio"
+theme: "PaperMod"
+pagination:
+  pagerSize: 10
+
+
+params:
+  homeInfoParams:
+    Title: "Welcome to Practivio"
+    Content: "Smart tools. AI insights. Zero BS."
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
