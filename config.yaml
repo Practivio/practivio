@@ -9,14 +9,10 @@ pagination:
 params:
   homeInfoParams:
     Title: "Welcome to Practivio"
-    Content: "Smart tools. AI insights. Zero BS."
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowCodeCopyButtons: true
+    Content: >
+      🧠 Smarter Product Picks, Every Time  
+      We break down today’s best gadgets, tools, and smart home tech into bite-sized, useful reviews — no fluff, no filler.
+    Button:
+      name: "Browse Picks"
+      url: "/categories/"
 
-menu:
-  main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 1
