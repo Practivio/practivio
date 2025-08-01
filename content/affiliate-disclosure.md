@@ -5,8 +5,7 @@ date: 2025-08-01
 slug: "affiliate-disclosure"
 ---
 
-**Last updated:** August 1, 2024  
-*Learn how we support our independent product review process.*
+**Last updated:** August 1, 2025  
 
 ---
 
