@@ -39,6 +39,7 @@ We compare features, price, performance — and tell you what’s actually worth
 
 ## 🆕 Latest Reviews
 
-{{< recent-posts limit=4 >}}
+{{< section >}}
+
 
 ---
