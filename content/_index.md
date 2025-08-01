@@ -1,45 +1,17 @@
 ---
-title: "Practivio – Find the Best Products, Without the Guesswork"
-description: "We test, compare, and recommend top-rated products so you can shop smarter — and never waste money again."
+title: "Welcome to Practivio"
+description: "Smart recommendations, smarter products. Discover the best tech gear without the research overload."
 ---
 
-# Find the Best. Skip the Rest.
+## 🧠 Smarter Product Picks, Every Time
 
-**No fluff. No hype. Just real reviews.**  
-At Practivio, we do the research so you can buy better — from smart home gear to everyday essentials.
+We break down today’s best gadgets, tools, and smart home tech into bite-sized, useful reviews — no fluff, no filler.
 
-[See Our Top Picks](/posts)
-
----
-
-## 🔥 Popular Guides
-
-- [Best Smart Plugs for Alexa Routines](/posts/best-smart-plugs-for-alexa/)
-- [Top Indoor Security Cameras Under $50](/posts/best-budget-security-cameras/)
-- [Best Portable Label Makers for Home & Office](/posts/best-label-makers/)
+### 📦 What You'll Find Here:
+- In-depth reviews with real-world use cases
+- Quick-buy summaries when you’re short on time
+- Expert picks backed by data, not hype
 
 ---
 
-## 🧠 Why Trust Practivio?
-
-Every review is backed by real-world testing, not fake ratings or paid promotions.  
-We compare features, price, performance — and tell you what’s actually worth your money.
-
----
-
-## 🛍️ Shop by Category
-
-- [Smart Home](/categories/smart-home/)
-- [Kitchen Tools](/categories/kitchen/)
-- [Pet Essentials](/categories/pets/)
-- [Tech & Gadgets](/categories/tech/)
-- [Home Office](/categories/office/)
-
----
-
-## 🆕 Latest Reviews
-
-{{< section >}}
-
-
----
+🕵️‍♂️ **Just here to skim?** Start with our [Editor's Picks](/best-picks) or browse by [Category](/categories).
