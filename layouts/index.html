@@ -12,15 +12,27 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
-    body {
+    html, body {
+      height: 100%;
+      margin: 0;
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .main-content {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
+      flex: 1;
       padding: 80px 20px;
-      margin: 0;
-      background-color: #ffffff;
     }
 
     .logo-row {
@@ -70,6 +82,18 @@
       border-color: #2563eb;
     }
 
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    footer a {
+      color: #aaa;
+      text-decoration: none;
+    }
+
     @media (max-width: 480px) {
       .logo-row {
         flex-direction: column;
@@ -89,15 +113,23 @@
 </head>
 
 <body>
-  <div class="logo-row">
-    <img src="/logo3.png" alt="Practivio Logo">
-    <h1>Practivio</h1>
+  <div class="main-content">
+    <div class="logo-row">
+      <img src="/logo3.png" alt="Practivio Logo">
+      <h1>Practivio</h1>
+    </div>
+
+    <p>Shop Smart. Live Better.</p>
+
+    <form action="/search" method="get">
+      <input type="text" name="q" placeholder="Search...">
+    </form>
   </div>
 
-  <p>Shop Smart. Live Better.</p>
-
-  <form action="/search" method="get">
-    <input type="text" name="q" placeholder="Search...">
-  </form>
+  <footer>
+    <p>
+      <a href="/affiliate-disclosure">How Practivio funds its reviews</a>
+    </p>
+  </footer>
 </body>
 </html>

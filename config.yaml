@@ -1,11 +1,18 @@
-baseURL: "https://www.practivio.com/"  # Update this from localhost if deploying
+baseURL: "https://practivio.com"
 languageCode: "en-us"
 title: "Practivio"
 theme: "PaperMod"
-pagination:
-  pagerSize: 10
 
 params:
+  defaultTheme: light
+  disableThemeToggle: true
+  favicon: "/favicon.ico"
   assets:
-    favicon: "logo.png"
-    logo: "logo.png"
+    css:
+      - "css/custom.css"
+
+menu:
+  main:
+    - name: "Disclosure"
+      url: "/affiliate-disclosure"
+      weight: 50
