@@ -1,5 +1,5 @@
 ---
-title: "How Practivio Funds Its Reviews"
+title: "Our Review Process & How We Stay Independent"
 slug: "affiliate-disclosure"
 ---
 
@@ -13,10 +13,10 @@ We independently research, compare, and recommend products to help you make smar
 
 These commissions allow us to:
 
-- Keep Practivio fast, ad-free, and reader-supported  
+- Keep Practivio fast and reader-supported  
 - Maintain complete editorial independence  
 - Continuously test and evaluate new products  
-- Publish detailed, helpful reviews and buying guides  
+- Publish detailed, helpful reviews, and buying guides  
 
 We **never accept payment** to feature or favor a product, and we don’t let commissions influence our recommendations. Every product we suggest is chosen for its quality, value, and relevance to you.
 
