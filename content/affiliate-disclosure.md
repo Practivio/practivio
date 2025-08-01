@@ -1,8 +1,10 @@
 ---
 title: "How Practivio Funds Its Reviews"
-description: "Learn how we support our independent product review process."
-date: 2025-08-01
 slug: "affiliate-disclosure"
+---
+
+**Last updated:** August 1, 2025  
+
 ---
 
 At **Practivio**, we believe transparency is the foundation of trust.
