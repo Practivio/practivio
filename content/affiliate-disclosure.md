@@ -5,10 +5,6 @@ date: 2025-08-01
 slug: "affiliate-disclosure"
 ---
 
-**Last updated:** August 1, 2025  
-
----
-
 At **Practivio**, we believe transparency is the foundation of trust.
 
 We independently research, compare, and recommend products to help you make smart, confident buying decisions. Some of the links on our site are referral links — which means we may earn a small commission if you click through and make a purchase. This is always at **no additional cost to you**.
