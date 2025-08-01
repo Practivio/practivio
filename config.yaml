@@ -1,18 +1,11 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://www.practivio.com/"  # Update this from localhost if deploying
 languageCode: "en-us"
 title: "Practivio"
 theme: "PaperMod"
 pagination:
   pagerSize: 10
 
-
 params:
-  homeInfoParams:
-    Title: "Welcome to Practivio"
-    Content: >
-      🧠 Smarter Product Picks, Every Time  
-      We break down today’s best gadgets, tools, and smart home tech into bite-sized, useful reviews — no fluff, no filler.
-    Button:
-      name: "Browse Picks"
-      url: "/categories/"
-
+  assets:
+    favicon: "logo.png"
+    logo: "logo.png"
