@@ -20,7 +20,7 @@ These commissions allow us to:
 
 We **never accept payment** to feature or favor a product, and we don’t let commissions influence our recommendations. Every product we suggest is chosen for its quality, value, and relevance to you.
 
-Have questions? Want to suggest a product for review? [Contact us](mailto:affiliates@practivio.com) — we’d love to hear from you.
+Have questions? Want to suggest a product for review? [Contact us](mailto:questions@practivio.com) — we’d love to hear from you.
 
 ---
 
