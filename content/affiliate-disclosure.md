@@ -1,5 +1,5 @@
 ---
-title: "Our Review Process & How We Stay Independent"
+title: "How We Protect Your Wallet (And Your Trust)"
 slug: "affiliate-disclosure"
 ---
 
@@ -7,21 +7,64 @@ slug: "affiliate-disclosure"
 
 ---
 
-At **Practivio**, we believe transparency is the foundation of trust.
+At **Practivio**, we’re not here to show you *more* products.  
+We’re here to show you the **right one** — cheaper, smarter, and trusted.
 
-We independently research, compare, and recommend products to help you make smart, confident buying decisions. Some of the links on our site are referral links — which means we may earn a small commission if you click through and make a purchase. This is always at **no additional cost to you**.
+Every page we publish exists for one reason:  
+👉 **To save you time and money on Amazon.**
 
-These commissions allow us to:
+### 💸 How We Make Money (Without Selling Out)
 
-- Keep Practivio fast and reader-supported  
-- Maintain complete editorial independence  
-- Continuously test and evaluate new products  
-- Publish detailed, helpful reviews, and buying guides  
+We use **affiliate links** — when you buy through them, we may earn a small commission.  
+It never costs you anything extra.
 
-We **never accept payment** to feature or favor a product, and we don’t let commissions influence our recommendations. Every product we suggest is chosen for its quality, value, and relevance to you.
+In the future, we may also run non-intrusive ads that keep the site free and lightning fast.
 
-Have questions? Want to suggest a product for review? [Contact us](mailto:questions@practivio.com) — we’d love to hear from you.
+But here's our promise:  
+> **We don’t take money from brands. We don’t run sponsored posts. And we don’t let commissions decide our picks.**  
+
+Every recommendation is powered by **data, not dollars**.
 
 ---
 
-*Thanks for being part of the Practivio community.*
+### 🔍 How Our Value Engine Works
+
+Before any product hits our site, it must pass a brutal 3-part filter:
+
+1. **Price Advantage**  
+   If it’s not **at least 10% cheaper** than Walmart, Target, or Best Buy — it’s rejected. Full stop.
+
+2. **100-Point Trust Score**  
+   We grade every product on a scale of 0–100 using:
+   - Real-world reviews (Amazon, Reddit, YouTube)
+   - Price-to-feature analysis
+   - Global availability checks
+   - Expert verdicts from trusted publications
+
+3. **Bias Blocker**  
+   No brand can pay for placement. No sponsored shoutouts. No backdoor deals.  
+   If a product doesn’t meet our standard — it disappears. Automatically.
+
+---
+
+### ✅ What That Means for You
+
+When you see a product on Practivio, you know three things:
+
+- It’s **proven and priced to beat the market**  
+- It’s passed real-world tests from real users  
+- It’s here because it’s **the best**, not because someone paid us to say so
+
+Affiliate links and ad revenue help us:
+- Keep Practivio free for everyone
+- Invest in deeper testing and smarter product discovery
+- Stay 100% independent — forever
+
+---
+
+💬 **Think there’s a better product we should test?**  
+[Email us your pick](mailto:questions@practivio.com) — we’ll research it. And if it wins, we’ll feature it.
+
+---
+
+*Thanks for trusting Practivio. We’re here to help you shop smarter — not harder.*
