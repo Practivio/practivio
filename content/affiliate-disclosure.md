@@ -63,7 +63,7 @@ Affiliate links and ad revenue help us:
 ---
 
 💬 **Think there’s a better product we should test?**  
-[Email us your pick](mailto:questions@practivio.com) — we’ll research it. And if it wins, we’ll feature it.
+[Email us your pick](mailto:recommendations@practivio.com) — we’ll research it. And if it wins, we’ll feature it.
 
 ---
 
