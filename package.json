@@ -1,0 +1,30 @@
+{
+  "name": "practivio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/practivio/practivio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/practivio/practivio/issues"
+  },
+  "homepage": "https://github.com/practivio/practivio#readme",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "gray-matter": "^4.0.3",
+    "mkdirp": "^3.0.1",
+    "multer": "^2.0.2",
+    "openai": "^5.11.0"
+  }
+}
