@@ -5,4 +5,6 @@ theme: "PaperMod"
 canonifyURLs: true
 enableRobotsTXT: true
 permalinks:
-  final: /products/:slug/
+ permalinks:
+  products: /products/:slug/
+
