@@ -1,0 +1,6 @@
+baseURL: "https://practivio.pages.dev/"
+languageCode: "en-us"
+title: "Practivio"
+theme: "PaperMod"
+canonifyURLs: true
+enableRobotsTXT: true
