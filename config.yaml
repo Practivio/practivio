@@ -1,6 +1,8 @@
-baseURL: "https://practivio.pages.dev/"
+baseURL: "https://practivio.com/"
 languageCode: "en-us"
 title: "Practivio"
 theme: "PaperMod"
 canonifyURLs: true
 enableRobotsTXT: true
+permalinks:
+  final: /products/:slug/
